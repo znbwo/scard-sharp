@@ -1,0 +1,30 @@
+# js
+/node_modules
+
+# ts
+/.tscache
+.baseDir.*
+
+# 项目相关
+config/local.*
+config/local-*
+gen_*
+build_backend/
+web_backend/gen_data
+
+# 临时文件
+.DS_store
+*~
+*.map
+*.pyc
+*.swp
+npm-debug.log
+
+# Istanbul - code coverage
+coverage/
+instrumented/
+
+# IDE
+.idea
+/*.iml
+.vscode/.ropeproject
