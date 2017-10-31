@@ -1,8 +1,8 @@
 {
-  "name": "fish-server",
+  "name": "",
   "private": true,
   "version": "1.0.0",
-  "description": "project fish",
+  "description": "",
   "main": "js/game.js",
   "scripts": {
     "build_backend": "webpack -p",
@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@112.124.0.158:fish-server.git"
+    "url": ""
   },
-  "author": "k",
+  "author": "z",
   "license": "Proprietary",
   "dependencies": {
     "bl": "^1.2.0",
